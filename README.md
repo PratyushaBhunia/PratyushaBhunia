@@ -31,37 +31,14 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Java
-- JavaScript
-- C
-
-### Frontend Technologies
-- HTML5
-- CSS3
-- React.js
-- Bootstrap
-
-### Backend Technologies
-- Spring Boot
-- Node.js
-
-### Databases
-- MySQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- Visual Studio Code
-- Eclipse IDE
-- IntelliJ IDEA
-
-### Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management System (DBMS)
-- Operating Systems
-- Computer Networks
+| Category | Skills |
+|----------|---------|
+| **Programming Languages** | Java, JavaScript, C |
+| **Frontend** | HTML5, CSS3, React.js, Bootstrap |
+| **Backend** | Spring Boot, Node.js |
+| **Database** | MySQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Eclipse, IntelliJ IDEA |
+| **Core Concepts** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
 ## 📊 GitHub Statistics
 
