@@ -31,14 +31,40 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
-|----------|---------|
-| **Programming Languages** | Java, JavaScript, C |
-| **Frontend** | HTML5, CSS3, React.js, Bootstrap |
-| **Backend** | Spring Boot, Node.js |
-| **Database** | MySQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Eclipse, IntelliJ IDEA |
-| **Core Concepts** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+### Programming Languages
+- Java
+- JavaScript
+- C
+
+### Frontend Technologies
+- HTML5
+- CSS3
+- React.js
+- Bootstrap
+
+### Backend Technologies
+- Spring Boot
+- Node.js
+
+### Databases
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- Eclipse IDE
+- IntelliJ IDEA
+- MySQL Workbench
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management System (DBMS)
+- Operating Systems
+- Computer Networks
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -57,16 +83,6 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=PratyushaBhunia&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PratyushaBhunia&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
