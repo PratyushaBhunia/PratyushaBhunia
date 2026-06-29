@@ -32,31 +32,36 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,c" />
-</p>
+- Java
+- JavaScript
+- C
 
 ### Frontend Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+- HTML5
+- CSS3
+- React.js
+- Bootstrap
 
 ### Backend Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
+- Spring Boot
+- Node.js
 
 ### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- MySQL
 
 ### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
-</p>
+- Git
+- GitHub
+- Visual Studio Code
+- Eclipse IDE
+- IntelliJ IDEA
 
----
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management System (DBMS)
+- Operating Systems
+- Computer Networks
 
 ## 📊 GitHub Statistics
 
