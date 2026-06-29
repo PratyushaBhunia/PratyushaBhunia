@@ -2,55 +2,61 @@
 
 # Hi 👋, I'm Pratyusha Bhunia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Developer;React+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+### 💻 Java Developer | Full Stack Developer | Problem Solver
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-eabbce84-9e14-4f84-a0e4-8c55fdb83fcb.gif" width="400">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;React+Enthusiast;DSA+Learner;Building+Scalable+Applications" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PratyushaBhunia&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🚀 About Me
 
-✨ Passionate about **Software Development**
+- 🎓 Passionate about **Software Development & Problem Solving**
+- 🌱 Currently learning **React.js, Spring Boot, and Data Structures & Algorithms**
+- 💻 Interested in **Full Stack Development and Backend Engineering**
+- 🚀 Love building **real-world applications**
+- 🎯 Goal: To become a **Skilled Software Engineer**
+- ⚡ Always curious to learn and explore new technologies
 
-🌱 Currently learning **React.js, Spring Boot & DSA**
-
-💻 Love building **Full Stack Applications**
-
-🚀 Interested in **Java Development & Web Technologies**
-
-🎯 Goal: Become an **Excellent Software Engineer**
-
-⚡ Fun fact: **I enjoy solving coding problems and learning new technologies**
+📫 **Reach me at:** **pratyushabhunia5@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,javascript,c" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠️ Tools
+### 🔧 Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
 </p>
@@ -61,9 +67,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PratyushaBhunia&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PratyushaBhunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaBhunia&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaBhunia&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -79,16 +85,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PratyushaBhunia&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -99,74 +95,54 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PratyushaBhunia&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Student Management System
-- Java + MySQL
-- CRUD Operations
-- Database Connectivity
-
-</td>
-
-<td width="50%">
-
-### ✅ React Todo App
-- React Hooks
-- Add/Edit/Delete Tasks
-- Responsive UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Full Stack Application
-- React + Spring Boot
-- REST APIs
-- MySQL Database
-
-</td>
-
-<td width="50%">
-
-### 💡 DSA Solutions
-- Problem Solving
-- Algorithms
-- Data Structures
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🎓 **Student Management System** | Java + MySQL application with CRUD operations |
+| ✅ **React Todo Application** | Task management app using React Hooks |
+| 🌐 **Full Stack Web Application** | React + Spring Boot + MySQL |
+| 🧠 **DSA Practice Repository** | Collection of Data Structures and Algorithms solutions |
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<a href="mailto:pratyushabhunia5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/PratyushaBhunia">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<!-- Add your LinkedIn URL here -->
+<!--
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+-->
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Code • Learn • Build • Repeat" ✨
+### ⭐ "Learn • Build • Improve • Repeat"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
