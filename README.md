@@ -25,7 +25,7 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 - 💻 Interested in **Backend Development** and **Full Stack Engineering**
 - 🚀 Focused on writing clean, efficient, and maintainable code
 - 📚 Always exploring new technologies and best practices
-- 📫 Reach me at: **pratyushabhunia5@gmail.com**
+- 📫 Reach me at: **pratyushabhunia25@gmail.com**
 
 ---
 
@@ -78,16 +78,6 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PratyushaBhunia&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Technology | Description |
@@ -96,16 +86,6 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 | React Todo Application | React.js | Task management application using React Hooks |
 | Full Stack Web Application | React, Spring Boot, MySQL | End-to-end full stack application |
 | DSA Solutions | Java | Collection of Data Structures and Algorithms problems |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushaBhunia&theme=github-dark&hide_border=true" />
-
-</div>
 
 ---
 
