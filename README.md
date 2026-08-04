@@ -25,7 +25,7 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 - 💻 Interested in **Backend Development** and **Full Stack Engineering**
 - 🚀 Focused on writing clean, efficient, and maintainable code
 - 📚 Always exploring new technologies and best practices
-- 📫 Reach me at: **pratyushabhunia5@gmail.com**
+- 📫 Reach me at: **pratyushabhunia25@gmail.com**
 
 ---
 
@@ -63,18 +63,6 @@ I am a passionate **Software Developer** with a strong interest in **Java Develo
 - Database Management System (DBMS)
 - Operating Systems
 - Computer Networks
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PratyushaBhunia&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaBhunia&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
 
 ---
 
